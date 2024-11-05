@@ -1,6 +1,6 @@
-# Python Fundamental for Data Science
+# Python Fundamentals for Data Science
 
-## Artem Urlapov Sedova
+## Artem Urlapov Sedova (Universidad Autónoma de Madrid)
 
 Curso breve e intuitivo de Fundamentos de Python para Data Science.
 
